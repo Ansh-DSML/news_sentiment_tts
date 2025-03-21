@@ -1,0 +1,26 @@
+# Web scraping and processing
+requests==2.32.3
+beautifulsoup4==4.11.2
+newspaper3k==0.2.8
+
+# NLP and text processing
+nltk==3.8.1
+transformers==4.28.1
+
+# Use more compatible versions
+torch>=1.13.0
+sentencepiece>=0.1.96
+
+# Text-to-speech
+gTTS==2.3.1
+
+# Web framework - updated to be compatible with pandas 2.0
+streamlit>=1.26.0
+pydantic==1.10.7
+
+# Data manipulation
+pandas==2.0.0
+
+# Extras for Hugging Face deployment
+protobuf==3.20.0
+python-dotenv>=1.0.0
